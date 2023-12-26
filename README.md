@@ -1,1 +1,1 @@
-# Viper-Stuffs-for-audio_effects.xml-
+# Add this to device/xiaomi/veux/configs/audio
